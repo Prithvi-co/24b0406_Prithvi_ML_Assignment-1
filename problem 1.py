@@ -1,4 +1,4 @@
-import numpy as np # type: ignore
+import numpy as np
 
 def main():
     # Generate a 2D NumPy array of shape (5, 4) with random integers from 1 to 50
